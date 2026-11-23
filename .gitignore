@@ -425,6 +425,5 @@ FodyWeavers.xsd
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
 
-.vscode/settings.json
+.vscode/
 MAST_data/
-*.fits
